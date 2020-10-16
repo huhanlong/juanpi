@@ -1,0 +1,165 @@
+.shopcar-body {
+  width: 1200px;
+  margin: auto; }
+
+.shopcar-top {
+  height: 45px;
+  width: 100%;
+  line-height: 45px;
+  color: #a3a3a3; }
+
+.shopcar-top div {
+  float: left;
+  font-size: 12px; }
+
+.shopcar-top div:first-of-type {
+  width: 230px;
+  margin-left: 163px;
+  padding-left: 33px; }
+
+.shopcar-top div:nth-of-type(2) {
+  width: 230px; }
+
+.shopcar-top div:nth-of-type(3) {
+  width: 170px; }
+
+.shopcar-top div:nth-of-type(4) {
+  width: 215px; }
+
+.shopcar-top div:nth-of-type(5) {
+  width: 155px; }
+
+.shopcar-car {
+  width: 1200px;
+  height: 460px;
+  background: #fff;
+  padding: 20px 0;
+  overflow: auto;
+  border-bottom: 2px solid #f1f2f3; }
+
+.Settlement {
+  width: 1200px;
+  height: 50px;
+  background: #fff;
+  margin-bottom: 50px; }
+
+.goods {
+  width: 1160px;
+  height: 128px;
+  background: #fafafa;
+  margin: 0px 20px 20px; }
+
+.checkout {
+  margin: 55px 10px 0; }
+
+.goods img {
+  width: 100px;
+  height: 100px;
+  margin: 13px 0; }
+
+.goods-Content {
+  width: 230px;
+  height: 100px;
+  margin: 13px 0px 13px 6px;
+  padding: 0px 13px; }
+
+.goods-Content p:first-of-type {
+  width: 204px;
+  height: 50px;
+  padding: 0px 0px 10px;
+  color: #666;
+  font-size: 12px; }
+
+.goods-Content p:last-of-type {
+  font-size: 12px;
+  color: #999; }
+
+.goods-price {
+  width: 230px;
+  height: 100px;
+  margin: 13px 0;
+  line-height: 100px; }
+
+.goods-price span:first-of-type {
+  font-size: 14px;
+  color: #000; }
+
+.goods-price span:last-of-type {
+  font-size: 12px;
+  color: #ccc; }
+
+.goods-number {
+  width: 150px;
+  height: 100px; }
+
+.goods-number span {
+  width: 40px;
+  float: left;
+  border: 1px solid #ccc;
+  display: inline-block;
+  text-align: center;
+  line-height: 20px;
+  border-left: none;
+  font-size: 12px;
+  margin-top: 50px;
+  border-right: none;
+  cursor: default; }
+
+.goods-number div {
+  width: 20px;
+  height: 20px;
+  float: left;
+  text-align: center;
+  border: 1px solid #ccc;
+  font-size: 12px;
+  margin-top: 50px;
+  cursor: pointer; }
+
+.goods-count {
+  width: 100px;
+  height: 100px;
+  margin: 13px 0;
+  font-size: 14px;
+  color: #ff464e;
+  line-height: 100px;
+  padding-left: 30px; }
+
+.Operation {
+  width: 230px;
+  height: 100px;
+  margin: 13px 0;
+  font-size: 30px;
+  text-align: center;
+  line-height: 100px;
+  color: #a3a3a3; }
+
+.Operation span {
+  cursor: pointer; }
+
+.settltment-right {
+  width: 600px;
+  height: 50px;
+  line-height: 50px;
+  color: #666;
+  font-size: 12px; }
+
+.settltment-right .alltotle {
+  font-size: 18px;
+  color: #ff464e; }
+
+.settltment-right span:nth-of-type(3) {
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  background: #ff464e;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer; }
+
+.sc_num-all {
+  color: #ff464e; }
+
+.alltotle-s {
+  color: #666;
+  font-size: 12px; }

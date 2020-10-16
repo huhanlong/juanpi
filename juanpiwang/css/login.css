@@ -1,0 +1,176 @@
+@charset "utf-8";
+html,body{
+    height: 100%;
+    background-color: #f6f6f6;
+}
+.header{
+    height: 100px;
+    border-bottom: 5px solid #FF464E;
+    background-color: #fff;
+
+}
+.header .header-h{
+    margin: auto;
+    width: 1226px;
+    line-height: 100px;
+}
+.title{
+    width: 174px;
+    height: 45px;
+    border-right: 1px solid red;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-h div:first-of-type{
+    border-right: transparent!important;
+}
+.icon-zhongbiao,.icon-shandian,.icon-zhikong{
+    font-size:40px!important;
+    color: red;
+}
+.title-font{
+    font-size: 20px;
+    color: #999;
+}
+.body{
+    width: 1226px;
+    height: 655px;
+    margin: auto;
+    border: 1px solid #999;
+    margin-top: 30px;
+    background-color: #fff;
+}
+.body-header{
+    height: 88px;
+    width: 1226px;
+    border-bottom: 1px solid #999;
+}
+.olduser{
+    color: #FF464E;
+    font-size: 20px;
+    line-height: 88px;
+    margin-left: 70px;
+}
+.olduserfont{
+    line-height: 88px;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.body-header-left{
+    width: 500px;
+    height: 88px;
+}
+.body-header-right{
+    line-height: 88px;
+    margin-right: 70px;
+}
+.withoutuser{
+    font-weight: lighter;
+}
+.slash{
+    font-size: 20px;
+    font-weight: lighter;
+    /* line-height: 90px; */
+}
+.register{
+    color: #85D0FF;
+    /* line-height: 90px; */
+}
+.body-body{
+    width: 1226px;
+    height: 565px;
+
+}
+.body-body-left{
+    width: 613px;
+    height: 565px;
+    /* border: 1px solid red; */
+}
+.login{
+    width: 393px;
+
+    height: 565px;
+    padding-left: 220px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+/* .body-body-left{
+padding-left: 220px;
+} */
+.body-body-right{
+    width: 600px;
+    height: 560px;
+    /* border: 1px solid red; */
+}
+/* .form-input{
+    width: 376px;
+    height: 56px;
+    border: 1px solid red;
+} */
+.form-input{
+    position: relative;
+}
+.icon-ren,.icon-mima{
+    font-size: 32px!important;
+    color: #999;
+    /* line-height: 56px; */
+}
+.form-control{
+    height: 56px;
+    width: 316px;
+    padding-left: 60px;
+    margin-top: 42px;
+}
+.login-left{
+    width: 56px;
+    height: 56px;
+    top: 44px;
+    left: 1px;
+    position: absolute;
+    background-color: #F9F9F9;
+    border-right: 3px solid #f0f0f0;
+    text-align: center;
+    line-height: 56px;
+}
+.forgotpaw{
+    margin-top: 42px;
+}
+.forgot{
+    margin-right: 10px;
+}
+.btn{
+    width: 356px;
+    height: 56px;
+    background-color: #FF6666;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.login-btn,.Cooperation{
+    margin-top: 42px;
+}
+.footer,.footer-last{
+    width: 1226px;
+    height: 20px;
+    margin: auto;
+    font-weight: lighter;
+    margin-top: 58px;
+}
+.footer{
+    text-align: center;
+}
+.danger{
+    /* position: absolute; */
+    /* width: 20px; */
+    /* height: 20px; */
+    /* top: 64px; */
+    /* display: none; */
+    
+    /* border: 1px solid rebeccapurple; */
+}

@@ -1,0 +1,99 @@
+.login-left-two {
+  position: absolute;
+  top: 19px;
+  left: -80px;
+  font-weight: lighter; }
+
+.form-control-two {
+  width: 362px;
+  height: 55px; }
+
+.form-input {
+  margin-top: 35px;
+  color: #666B83; }
+
+.code {
+  width: 192px; }
+
+.sendcode {
+  width: 150px;
+  height: 55px;
+  background-color: #E2E2E2;
+  position: absolute;
+  top: 2px;
+  left: 212px;
+  text-align: center;
+  line-height: 55px;
+  cursor: pointer; }
+
+.registerpic {
+  margin-top: 42px; }
+
+.body-body-right {
+  width: 450px;
+  height: 560px;
+  /* border: 1px solid red; */ }
+
+.body-body-left {
+  width: 753px;
+  height: 565px;
+  /* border: 1px solid red; */ }
+
+.Mailbox {
+  /* position: absolute;
+    top: 0;
+    right: 0; */
+  color: #85D0FF; }
+
+.login {
+  width: 483px;
+  height: 565px;
+  padding-left: 220px;
+  /* border: 1px solid rebeccapurple; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */ }
+
+.alert-danger {
+  position: absolute;
+  top: 605px;
+  left: 400px;
+  /* left: 10px; */
+  width: 300px;
+  height: 35px;
+  /* width: 100px; */
+  /* height: 20px; */
+  /* background-color: red; */ }
+
+.danger {
+  position: absolute;
+  top: 605px;
+  left: 400px;
+  width: 300px;
+  height: 35px;
+  background: #ff464e;
+  opacity: 0.6;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 35px; }
+
+.success {
+  position: absolute;
+  top: 605px;
+  left: 400px;
+  width: 300px;
+  height: 35px;
+  background: #E4F6D4;
+  opacity: 0.6;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 35px; }
+
+.success-two {
+  position: absolute;
+  top: 163px;
+  left: 10px;
+  color: red; }
